@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the model
-model = joblib.load('C:/Users/jazz3/OneDrive/Desktop/CreditCardFraudDetection.joblib')
+model = joblib.load('C:/Users/jazz3/OneDrive/Desktop/mproject/CreditCardFraudDetection.joblib')
 
 
 
